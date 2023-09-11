@@ -18,14 +18,3 @@ s = f"我叫{name},我今年{age+1}岁"
 print(s);
 # i = 10;
 # print(type(i))
-
-# mydb = mysql.connector.connect(
-#   host="localhost",
-#   user="yourusername",
-#   passwd="111111"
-# )
-
-# print(mydb)
-
-# mycursor = mydb.cursor()
-# mycursor.execute("CREATE DATABASE mydatabase")
